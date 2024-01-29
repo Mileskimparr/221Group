@@ -42,7 +42,7 @@ Two potential data sources we’re considering delving into are _______:
 
 
 # Visual Flow Chart of Intended Analysis and Resulting Visualizations
-(Click on image to zoom, if needed)
+(Click on image to zoom, will open a new link)
 [![FInal-Flow-Chart.png](https://i.postimg.cc/6pw2t9Tb/FInal-Flow-Chart.png)](https://postimg.cc/YhnqxB6Q)
 
 
