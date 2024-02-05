@@ -23,7 +23,7 @@ Using the LA Census Tracts Viewer by 2020 Supervisorial District, the unincorpor
 **District 5:** Altadena, Antelope Valley, Charter Oak, East Pasadena/East San Gabriel, Kagel/Lopez Canyons, Kinneloa Mesa, La Crescenta/Montrose, Oat Mountain, San Pasqual, Santa Clarita Valley, South Monrovia Islands, Universal City
 
 # Data sources
-Two potential data sources we’re considering delving into are _______:
+The potential data sources we’re considering delving into are _______:
 
 [LA Metro Strategic Plan](https://libraryarchives.metro.net/dpgtl/publications/2019-transit-to-parks-strategic-plan.pdf)
 [Similar study in LA](https://www.tandfonline.com/doi/epdf/10.1080/07352166.2017.1360740?needAccess=true
